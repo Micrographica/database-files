@@ -1,0 +1,230 @@
+{
+  "Phelsuma Inexpectata": {
+    "common_name": "Manapany Day Gecko",
+    "iucn": "CR",
+    "ioc_code": "",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Gekkonidae",
+    "description": "Manapany Day Gecko Phelsuma inexpectata has most recently been assessed for The IUCN Red List of Threatened Species in 2019. Phelsuma inexpectata is listed as Critically Endangered under criteria B1ab(ii,iii,iv,v).",
+    "sources": [
+      "https://www.iucnredlist.org/species/17450049/17450059#bibliography"
+    ]
+  },
+  "Phyllodactylus pulcher": {
+    "common_name": "Barbados leaf-toed gecko",
+    "iucn": "CR",
+    "ioc_code": "",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phyllodactylidae",
+    "description": "Barbados Leaf-toed Gecko Phyllodactylus pulcher has most recently been assessed for The IUCN Red List of Threatened Species in 2015. Phyllodactylus pulcher is listed as Critically Endangered under criteria B2ab(iii,v).",
+    "sources": [
+      "https://www.iucnredlist.org/species/48443321/115401286"
+    ]
+  },
+  "Plecotus sardus": {
+    "common_name": "Sardinian long-eared bat",
+    "iucn": "CR",
+    "ioc_code": "",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/136503/211020578"
+    ]
+  },
+  "Hirundo rustica": {
+    "common_name": "Barn swallow",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22712252/166369730"
+    ]
+  },
+  "Sylvia atricapilla": {
+    "common_name": "Blackcap",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22716901/281023712"
+    ]
+  },
+  "Merops apiaster": {
+    "common_name": "European bee-eater",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Coraciiformes",
+    "family": "Meropidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22683756/264578444"
+    ]
+  },
+  "Oriolus oriolus": {
+    "common_name": "Eurasian golden oriole",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Oriolidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/103692938/264564352"
+    ]
+  },
+  "Emberiza hortulana": {
+    "common_name": "Ortolan bunting",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22720916/281469459"
+    ]
+  },
+  "Pernis apivorus": {
+    "common_name": "European honey-buzzard",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22694989/206749274"
+    ]
+  },
+  "Accipiter nisus": {
+    "common_name": "Eurasian sparrowhawk",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22695624/199751254"
+    ]
+  },
+  "Falco tinnunculus": {
+    "common_name": "Common kestrel",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22696362/206316110"
+    ]
+  },
+  "Circaetus gallicus": {
+    "common_name": "Short-toed snake-eagle",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22734216/203141317"
+    ]
+  },
+  "Accipiter brevipes": {
+    "common_name": "Levant sparrowhawk",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/22695499/198250662"
+    ]
+  },
+  "Hyaena hyaena": {
+    "common_name": "Striped hyaena",
+    "iucn": "NT",
+    "ioc_code": "",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Hyaenidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/10274/45195080"
+    ]
+  },
+  "Panthera tigris altaica": {
+    "common_name": "Amur tiger",
+    "iucn": "EN",
+    "ioc_code": "",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/15955/214862019"
+    ]
+  },
+  "Neofelis nebulosa": {
+    "common_name": "Clouded leopard",
+    "iucn": "VU",
+    "ioc_code": "",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/14519/198843258"
+    ]
+  },
+  "Crocuta crocuta": {
+    "common_name": "Spotted hyaena",
+    "iucn": "LC",
+    "ioc_code": "",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Hyaenidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/5674/45194782"
+    ]
+  },
+  "Elephas maximus": {
+    "common_name": "Asian Elephant",
+    "iucn": "EN",
+    "ioc_code": "",
+    "class": "Mammalia",
+    "order": "Proboscidea",
+    "family": "Elephantidae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/7140/45818198"
+    ]
+  },
+  "Iberodes littoralis subsp. Gallaecica": {
+    "common_name": "",
+    "iucn": "EN",
+    "ioc_code": "",
+    "class": "Magnoliopsida",
+    "order": "Boraginales",
+    "family": "Boraginaceae",
+    "description": "",
+    "sources": [
+      "https://www.iucnredlist.org/species/61663/12534517"
+    ]
+  }
+}

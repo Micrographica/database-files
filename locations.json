@@ -1,0 +1,127 @@
+{
+  "cairngorm_plateau":    { "location_name": "Cairngorm Plateau",    "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 57.12, "lng": -3.73 },
+  "torridon_ridge":       { "location_name": "Torridon Ridge",        "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 57.68, "lng": -5.01 },
+  "flow_country_pinewood":{ "location_name": "Flow Country Pinewood", "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 58.42, "lng": -4.87 },
+  "rannoch_moor":         { "location_name": "Rannoch Moor",          "region": "Perth and Kinross", "country": "Scotland", "iso_a3": "GBR", "lat": 56.82, "lng": -4.20 },
+  "skye_coast":           { "location_name": "Skye Coast",            "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 57.45, "lng": -6.25 },
+  "loch_an_eilein":       { "location_name": "Loch an Eilein",        "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 57.14, "lng": -3.83 },
+  "allt_mor_gorge":       { "location_name": "Allt Mòr Gorge",        "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 57.10, "lng": -3.69 },
+  "beinn_mheadhoin_loch": { "location_name": "Beinn Mheadhoin Loch",  "region": "Highland",          "country": "Scotland", "iso_a3": "GBR", "lat": 57.08, "lng": -3.62 },
+
+ "reunion_island": {
+    "location_name": "Reunion Island",
+    "region": "Indian Ocean",
+    "country": "",
+    "iso_a3": "na",
+    "lat": -20.81,
+    "lng": 54.16
+  },
+  "barbados": {
+    "location_name": "Barbados",
+    "region": "Caribean",
+    "country": "Barbados",
+    "iso_a3": "",
+    "lat": 13.19,
+    "lng": -59.86
+  },
+  "global": {
+    "location_name": "Global",
+    "region": "",
+    "country": "",
+    "iso_a3": "na",
+    "lat": 43.5,
+    "lng": -28.59
+  },
+  "ascension_island": {
+    "location_name": "Ascension Island",
+    "region": "",
+    "country": "",
+    "iso_a3": "na",
+    "lat": -7.93,
+    "lng": -14.54
+  },
+  "sardinia": {
+    "location_name": "Sardinia",
+    "region": "",
+    "country": "Italy",
+    "iso_a3": "",
+    "lat": 40.05,
+    "lng": 7.66
+  },
+  "trinidad_and_tobago": {
+    "location_name": "Trinidad and Tobaga",
+    "region": "",
+    "country": "Trinidad and Tobago",
+    "iso_a3": "",
+    "lat": 10.7,
+    "lng": -61.21
+  },
+  "lebanon": {
+    "location_name": "Lebanon",
+    "region": "",
+    "country": "Lebanon",
+    "iso_a3": "",
+    "lat": 33.87,
+    "lng": 34.53
+  },
+  "indonesia": {
+    "location_name": "Indonesia",
+    "region": "",
+    "country": "Indonesia",
+    "iso_a3": "",
+    "lat": 33.87,
+    "lng": 34.53
+  },
+  "far_east": {
+    "location_name": "Far East",
+    "region": "",
+    "country": "Russian Federation",
+    "iso_a3": "",
+    "lat": 45.05,
+    "lng": 136.62
+  },
+  "taiwan": {
+    "location_name": "Taiwan",
+    "region": "",
+    "country": "Taiwan",
+    "iso_a3": "",
+    "lat": 23.41,
+    "lng": 114.22
+  },
+  "mozambique": {
+    "location_name": "Mozambique",
+    "region": "",
+    "country": "Mozambique",
+    "iso_a3": "",
+    "lat": -18.32,
+    "lng": 25.18
+  },
+  "nagaland": {
+    "location_name": "Nagaland",
+    "region": "",
+    "country": "India",
+    "iso_a3": "",
+    "lat": 26.11,
+    "lng": 92.97
+  },
+  "chhattisgarh": {
+    "location_name": "Chhattisgarh",
+    "region": "",
+    "country": "India",
+    "iso_a3": "",
+    "lat": 20.93,
+    "lng": 79.68
+  },
+  "gallicia": {
+    "location_name": "Gallicia",
+    "region": "",
+    "country": "Spain",
+    "iso_a3": "",
+    "lat": 42.77,
+    "lng": -10.65
+  }
+  
+  
+  
+  
+}

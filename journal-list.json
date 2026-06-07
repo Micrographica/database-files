@@ -1,0 +1,37 @@
+{
+  "j1": {
+    "id": "j1",
+    "title": "Scottish Highlands Survey",
+    "author": "T. Whitfield",
+    "date": "2025-08",
+    "icon": "🦅",
+    "abstract": "A structured raptor and upland bird survey across the Cairngorms National Park and NW Highlands, conducted August 2025. Focused on breeding season activity, territory mapping, and population status assessment for priority upland species including raptors, grouse, and Scottish endemics.",
+    "keywords": ["avifauna", "upland", "raptors", "Scotland", "UK", "breeding survey", "SSSI"],
+    "data_file": "j1_highlands.json",
+    "species_file": "j1_highlands_species.json"
+  },
+  
+  "j2": {
+    "id": "j2",
+    "title": "Cairngorms Invertebrate Survey",
+    "author": "S. MacLeod",
+    "date": "2025-07",
+    "icon": "🦋",
+    "abstract": "A systematic invertebrate survey targeting montane and riparian habitats across the Cairngorms National Park, July 2025. Coverage includes priority lepidoptera, odonata, and aquatic macroinvertebrates as bioindicators of water quality and habitat condition.",
+    "keywords": ["invertebrates", "lepidoptera", "odonata", "montane", "Scotland", "bioindicator"],
+    "data_file": "j2_cairngorms_invertebrates.json",
+    "species_file": "j2_cairngorms_invertebrates_species.json"
+  },
+  
+  "oryx-59-2": {
+  "id": "oryx-59-2",
+  "title": "Island Conservation",
+  "author": "The Oryx Journal",
+  "date": "2025-03",
+  "icon": "🦎",
+  "abstract": "...",
+  "keywords": [],
+  "data_file": "oryx-59-2.json",
+  "species_file": "oryx-59-2-species.json"
+  }  
+}
